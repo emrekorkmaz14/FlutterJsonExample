@@ -1,7 +1,7 @@
-# ToDoApp
-- Firabase authentication is used in app. 
-- Email password sign in and google sign in are integrated. 
-- All buttons perform their functions in app  (login, logout, add task, delete task etc.).
+# JsonExample
+- I used data I got from jsonplaceholder in app.
+- On the homepage, we see users' names and e-mail information. 
+- When we click on any of the users listed, we see the comment of the clicked user on our page.
 
 ## What I Use
 - http 0.13.4
