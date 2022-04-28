@@ -1,6 +1,7 @@
-# JsonExample
--I used the data I got from jsonplaceholder in app.
--
+# ToDoApp
+- Firabase authentication is used in app. 
+- Email password sign in and google sign in are integrated. 
+- All buttons perform their functions in app  (login, logout, add task, delete task etc.).
 
 ## What I Use
 - http 0.13.4
